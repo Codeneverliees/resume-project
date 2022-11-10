@@ -5,7 +5,7 @@
 # project-page
 ![projectpage](https://user-images.githubusercontent.com/101417939/201017741-87367ace-065b-4beb-b4f7-3cf6af5e2548.png)
 
-# skillpage-page
+# skill-page
 ![skillpage](https://user-images.githubusercontent.com/101417939/201017870-bdc0680e-fd14-434c-8c6f-55c739827522.png)
 
 # contact-page
